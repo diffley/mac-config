@@ -3,3 +3,5 @@
 # Please adapt and uncomment the following lines:
 	name = Christopher Diffley
 	email = diffley@gmail.com
+[credential]
+	helper = osxkeychain
