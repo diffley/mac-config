@@ -10,3 +10,7 @@
 	trustExitCode = false
 [merge]
 	tool = sublime
+[format]
+	pretty = oneline
+[color]
+	ui = true
