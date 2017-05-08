@@ -23,6 +23,7 @@ alias g="git"
 alias ga="git add"
 alias gb="git branch --all"
 alias gc="git commit -m"
+alias gd="git diff"
 alias gs="git status"
 alias gk="gitk"
 
